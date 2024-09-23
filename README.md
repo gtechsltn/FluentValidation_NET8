@@ -1,5 +1,7 @@
 # Fluent Validation in .NET 8.0
 
+Object-Oriented Programming (OOP) is an abstraction of Procedural Programming (PROC)
+
 ## MicroElements.Swashbuckle.FluentValidation
 
 https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation
@@ -23,6 +25,15 @@ Use FluentValidation rules instead of ComponentModel attributes
 ## NuGet package: MicroElements.Swashbuckle.FluentValidation
 
 https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation
+
+### What are the OOP concepts?
+
+**Object-Oriented Programming** or **OOP**s is a programming style that is associated with concepts like:
+
++ **Inheritance**: Inheritance is a process where one class acquires the properties of another.
++ **Encapsulation**: Encapsulation in Java is a mechanism of wrapping up the data and code together as a single unit.
++ **Abstraction**: Abstraction is the methodology of hiding the implementation details from the user and only providing the functionality to the users.
++ **Polymorphism**: Polymorphism is the ability of a variable, function or object to take multiple forms
 
 ### Why was OOP invented?
 
